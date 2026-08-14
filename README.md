@@ -195,7 +195,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## OUTPUT
 Object Not Detected
 
-<img width="837" height="848" alt="image" src="https://github.com/user-attachments/assets/de5836d8-8c14-4be0-a265-e695ea14d833" />
+<img width="796" height="852" alt="image" src="https://github.com/user-attachments/assets/0412321a-ccaa-4f6b-8b7c-daf9649a06ef" />
+
 
 Object Detected
 
